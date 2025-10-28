@@ -1,16 +1,57 @@
-# my_app
+# ⏰ Pomodoro Timer (Flutter)
 
-A new Flutter project.
+Простое и стильное приложение Pomodoro Timer, созданное на Flutter.  
+Помогает концентрироваться по методу Помодоро: 25 минут работы и короткий перерыв.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Возможности
 
-A few resources to get you started if this is your first Flutter project:
+- Таймер на **25 минут**  
+- Кнопки **Старт / Пауза / Сброс**  
+- Красивая **анимация прогресса по кругу**  
+- Всплывающее уведомление по завершении сессии  
+- Дизайн в **фиолетовых оттенках**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Что можно изучить с этим проектом
+
+- Работа с **StatefulWidget**  
+- Использование **Timer** из `dart:async`  
+- Анимация с помощью **TweenAnimationBuilder**  
+- Работа с **аудио**  
+- Базовая структура Flutter-приложения
+
+---
+
+## 💻 Как запустить проект
+
+1. Убедись, что установлен Flutter SDK  
+2. Склонируй репозиторий:
+   ```bash
+   git clone https://github.com/username/flutter_pomodoro_timer.git
+   ```
+3. Перейди в папку проекта:
+   ```bash
+   cd flutter_pomodoro_timer
+   ```
+4. Установи зависимости:
+   ```bash
+   flutter pub get
+   ```
+5. Запусти приложение (например, в Chrome):
+   ```bash
+   flutter run -d chrome
+   ```
+
+
+## 🧩 Технологии
+
+- **Flutter**  
+- **Dart**  
+- **audioplayers** — для звука  
+- **Material Design**
+
+---
+
